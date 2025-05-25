@@ -1,4 +1,4 @@
-# spiceworks_kb_scrape
+# spiceworks_kb_scraper
 Python script using Selenium to scrape knowledge base articles from a Spiceworks instance.
 
 You'll need the ChromeDriver sourced from here: https://chromedriver.chromium.org/downloads. Place chromedriver.exe in this directory.
